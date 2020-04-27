@@ -127,7 +127,7 @@
 }
 
 .devBody1 {
-  background: #00ff7f;
+  background: #f5f5dc;
   color: black;
 }
 
@@ -149,4 +149,16 @@
 }
 #microInfo1 {
   font-size: 1.2rem;
+}
+
+.fa-chart-line {
+  color: #00ff7f;
+}
+
+#devText {
+  color: white;
+}
+
+#graphtextDev {
+  color: #00ff7f;
 }
